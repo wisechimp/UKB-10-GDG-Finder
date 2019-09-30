@@ -41,4 +41,5 @@
     <string name="home_main_image_alt_text">Main Image showing a Google developer group in action</string>
     <string name="home_final_image_alt_text">Image showing some jolly google developers!</string>
     <string name="list_image">An image for the GDG</string>
+    <string name="ok_butt">Ok</string>
 </resources>
